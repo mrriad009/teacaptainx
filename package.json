@@ -18,6 +18,9 @@
   "homepage": "https://github.com/mrriad009/teacaptainx#readme",
   "keywords": [],
   "dependencies": {
-    "axios": "^1.7.2"
+    "axios": "^1.7.2",
+    "ccxt": "^4.3.30",
+    "dotenv": "^16.4.5",
+    "node-telegram-bot-api": "^0.66.0"
   }
 }
