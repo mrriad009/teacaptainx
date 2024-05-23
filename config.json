@@ -1,0 +1,5 @@
+{
+    "crypto_id": "bitcoin",
+    "threshold": 30000,
+    "email": "user@example.com"
+}
