@@ -26,5 +26,5 @@ def check_price_and_alert(crypto_id, threshold, email):
 if __name__ == "__main__":
     crypto_id = 'bitcoin'
     threshold = 30000  # Example threshold
-    email = 'user@example.com'
+    email = 'mrxkhan19001@example.com'
     check_price_and_alert(crypto_id, threshold, email)
