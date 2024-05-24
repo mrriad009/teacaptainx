@@ -1,6 +1,6 @@
 {
   "name": "teacaptainx",
-  "version": "1.0.2",
+  "version": "1.1.0",
   "description": "teaOSSProject",
   "main": "index.js",
   "scripts": {
@@ -11,7 +11,7 @@
     "type": "git",
     "url": "git+https://github.com/mrriad009/teacaptainx.git"
   },
-  "author": "",
+  "author": "captainbnb",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/mrriad009/teacaptainx/issues"
