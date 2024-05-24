@@ -15,12 +15,16 @@ async function sendCryptoPrices() {
 
         const message = `
 ╔═════════════════════════════════════════════════╗
-║           Crypto Prices                         ║╝
-╠═════════════════════════════════════════════════╣╝
-║ 🟠 Bitcoin: $${prices.bitcoin.usd}              ║
-║ 🟣 Ethereum: $${prices.ethereum.usd}            ║
-║ 🟢 Solana: $${prices.solana.usd}                ║
-║ 🔵 Binance Coin: $${prices.binancecoin.usd}     ║
+║           Crypto Prices                         ║
+╠═════════════════════════════════════════════════╣
+║ 🟠 Bitcoin: $${prices.bitcoin.usd} 
+             
+║ 🟣 Ethereum: $${prices.ethereum.usd} 
+           
+║ 🟢 Solana: $${prices.solana.usd}    
+            
+║ 🔵 Binance Coin: $${prices.binancecoin.usd} 
+    
 ║ 🟡 Dogecoin: $${prices.dogecoin.usd}            ║
 ╚═════════════════════════════════════════════════╝╝
         `;

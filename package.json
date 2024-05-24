@@ -1,9 +1,10 @@
 {
   "name": "teacaptainx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "teaOSSProject",
   "main": "index.js",
   "scripts": {
+    "start": "node index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -22,5 +23,6 @@
     "ccxt": "^4.3.30",
     "dotenv": "^16.4.5",
     "node-telegram-bot-api": "^0.66.0"
-  }
+  },
+  "devDependencies": {}
 }
